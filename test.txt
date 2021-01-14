@@ -1,7 +1,4 @@
 One
 two
-three
-Four
-5
-six
-SeVeN
+ready?
+Go!
